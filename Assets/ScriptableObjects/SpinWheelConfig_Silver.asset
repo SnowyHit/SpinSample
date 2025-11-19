@@ -14,13 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   configName: GoldenConfig
   slots:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: ab577eb2496794b42a01575c48035b31, type: 2}
+  - {fileID: 11400000, guid: ab577eb2496794b42a01575c48035b31, type: 2}
+  - {fileID: 11400000, guid: ab577eb2496794b42a01575c48035b31, type: 2}
+  - {fileID: 11400000, guid: ab577eb2496794b42a01575c48035b31, type: 2}
+  - {fileID: 11400000, guid: ab577eb2496794b42a01575c48035b31, type: 2}
+  - {fileID: 11400000, guid: ab577eb2496794b42a01575c48035b31, type: 2}
+  - {fileID: 11400000, guid: ab577eb2496794b42a01575c48035b31, type: 2}
+  - {fileID: 11400000, guid: ab577eb2496794b42a01575c48035b31, type: 2}
   isSafeWheel: 0
-  wheelTint: {r: 1, g: 1, b: 1, a: 1}
+  wheelVisual: {fileID: 0}
+  wheelStickVisual: {fileID: 0}
+  TopString: 
+  BottomString: 
