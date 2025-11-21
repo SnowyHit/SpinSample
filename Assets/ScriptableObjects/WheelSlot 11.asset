@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d35ff92d7b0d2a40ab3e5fa8b7dd94b, type: 3}
+  m_Name: WheelSlot 11
+  m_EditorClassIdentifier: 
+  id: Shotgun
+  icon: {fileID: 21300000, guid: f8a9e389aefede24e8400e5a5f021c9d, type: 3}
+  rewardAmount: 23
+  isBomb: 0
+  weight: 1

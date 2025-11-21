@@ -14,14 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   configName: GoldenConfig
   slots:
-  - {fileID: 11400000, guid: ab577eb2496794b42a01575c48035b31, type: 2}
-  - {fileID: 11400000, guid: ab577eb2496794b42a01575c48035b31, type: 2}
-  - {fileID: 11400000, guid: ab577eb2496794b42a01575c48035b31, type: 2}
-  - {fileID: 11400000, guid: ab577eb2496794b42a01575c48035b31, type: 2}
-  - {fileID: 11400000, guid: ab577eb2496794b42a01575c48035b31, type: 2}
-  - {fileID: 11400000, guid: ab577eb2496794b42a01575c48035b31, type: 2}
-  - {fileID: 11400000, guid: 69cec1b9ba6887542801436f173c1986, type: 2}
+  - {fileID: 11400000, guid: d674f7384f899d34eb62ceefa807ca53, type: 2}
+  - {fileID: 11400000, guid: 5800a172810e5a746a569742575446c8, type: 2}
+  - {fileID: 11400000, guid: 5800a172810e5a746a569742575446c8, type: 2}
+  - {fileID: 11400000, guid: 7897aaa9fd649c444b207d45622675c8, type: 2}
+  - {fileID: 11400000, guid: 5800a172810e5a746a569742575446c8, type: 2}
   - {fileID: 11400000, guid: d5cd0d603aae0324f8aa337ec7b39c23, type: 2}
+  - {fileID: 11400000, guid: 7897aaa9fd649c444b207d45622675c8, type: 2}
+  - {fileID: 11400000, guid: 69cec1b9ba6887542801436f173c1986, type: 2}
   TextColor: {r: 1, g: 0.8508403, b: 0.41037738, a: 1}
   wheelVisual: {fileID: 21300000, guid: 05b2c2cb22854cd4b8607bf486b44b40, type: 3}
   wheelStickVisual: {fileID: 21300000, guid: 82406939b89a6b24687b3082a0c1e86d, type: 3}
