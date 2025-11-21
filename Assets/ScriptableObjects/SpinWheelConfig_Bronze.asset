@@ -15,15 +15,15 @@ MonoBehaviour:
   configName: GoldenConfig
   slots:
   - {fileID: 11400000, guid: ab577eb2496794b42a01575c48035b31, type: 2}
+  - {fileID: 11400000, guid: 9f87ce78a9dd7294cb2e4d2c50c29987, type: 2}
+  - {fileID: 11400000, guid: 2f407dc3aee186449915213a30e0ddbf, type: 2}
+  - {fileID: 11400000, guid: 41e444c170fb8a842b0af5556b467d44, type: 2}
   - {fileID: 11400000, guid: ab577eb2496794b42a01575c48035b31, type: 2}
   - {fileID: 11400000, guid: ab577eb2496794b42a01575c48035b31, type: 2}
   - {fileID: 11400000, guid: ab577eb2496794b42a01575c48035b31, type: 2}
   - {fileID: 11400000, guid: ab577eb2496794b42a01575c48035b31, type: 2}
-  - {fileID: 11400000, guid: ab577eb2496794b42a01575c48035b31, type: 2}
-  - {fileID: 11400000, guid: ab577eb2496794b42a01575c48035b31, type: 2}
-  - {fileID: 11400000, guid: ab577eb2496794b42a01575c48035b31, type: 2}
-  isSafeWheel: 0
+  TextColor: {r: 0.3018868, g: 0.1710251, b: 0, a: 1}
   wheelVisual: {fileID: 21300000, guid: bf2145e58533b874baff191e2f50bb70, type: 3}
   wheelStickVisual: {fileID: 21300000, guid: 17a8d1911b9fd304e9ecdd8122057f76, type: 3}
-  TopString: Bronze
-  BottomString: Loser
+  TopString: Bronze Spin !
+  BottomString: Gain rewards and dodge the bomb !

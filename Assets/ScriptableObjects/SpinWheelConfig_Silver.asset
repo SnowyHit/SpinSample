@@ -19,11 +19,11 @@ MonoBehaviour:
   - {fileID: 11400000, guid: ab577eb2496794b42a01575c48035b31, type: 2}
   - {fileID: 11400000, guid: ab577eb2496794b42a01575c48035b31, type: 2}
   - {fileID: 11400000, guid: ab577eb2496794b42a01575c48035b31, type: 2}
+  - {fileID: 11400000, guid: 9f87ce78a9dd7294cb2e4d2c50c29987, type: 2}
   - {fileID: 11400000, guid: ab577eb2496794b42a01575c48035b31, type: 2}
-  - {fileID: 11400000, guid: ab577eb2496794b42a01575c48035b31, type: 2}
-  - {fileID: 11400000, guid: ab577eb2496794b42a01575c48035b31, type: 2}
-  isSafeWheel: 0
-  wheelVisual: {fileID: 0}
-  wheelStickVisual: {fileID: 0}
-  TopString: 
-  BottomString: 
+  - {fileID: 11400000, guid: d674f7384f899d34eb62ceefa807ca53, type: 2}
+  TextColor: {r: 0.5943396, g: 0.5943396, b: 0.5943396, a: 1}
+  wheelVisual: {fileID: 21300000, guid: 811db8218ee2a4643b96ca7ac184b7ad, type: 3}
+  wheelStickVisual: {fileID: 21300000, guid: dfb2de5ac9652ce4f9ada0cdd791e8e1, type: 3}
+  TopString: Silver Spin !
+  BottomString: Up to 5x rewards

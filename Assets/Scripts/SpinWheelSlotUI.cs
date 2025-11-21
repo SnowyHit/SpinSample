@@ -5,10 +5,17 @@ using UnityEngine.UI;
 public class SpinWheelSlotUI : MonoBehaviour
 {
     public Image icon;
+    public Image bombIcon;
     public TextMeshProUGUI amount_value;
+    public GameObject bombPanel;
+    public GameObject rewardPanel;
 
     public void SetData(SpinWheelSlotSO data)
     {
+
+        bombPanel.SetActive(data.isBomb);
+        rewardPanel.SetActive(!data.isBomb);
+
         if (data == null)
         {
             icon.sprite = null;
@@ -17,6 +24,6 @@ public class SpinWheelSlotUI : MonoBehaviour
         }
 
         icon.sprite = data.icon;
-        amount_value.text = data.isBomb ? "" : data.rewardAmount.ToString();
+        amount_value.text = "x" + data.rewardAmount.ToString();
     }
 }
