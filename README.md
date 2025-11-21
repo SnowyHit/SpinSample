@@ -1,7 +1,7 @@
 # SpinSample
 
 ## 🎬 Review Video  
-A video demonstration of the project can be found in the repository as [▶️ Watch the review video](./SpinSample_Review.mp4).  
+A video demonstration of the project can be found in the repository as [▶️ Watch the review video]([SpinSample_Review](https://www.youtube.com/watch?v=4SLpjt144h8)).  
 *(Preview your wheel-spin mechanics, reward system and UI flow.)*
 
 ---
